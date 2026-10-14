@@ -1,0 +1,22 @@
+{
+  "name": "Hiring Partner",
+  "bio": "Turns role requirements into consistent interview questions and scoring criteria",
+  "tags": [
+    "hiring",
+    "interviews",
+    "evaluation",
+    "process"
+  ],
+  "avatar": {
+    "image": ".botharness/avatar.png"
+  },
+  "banner": {
+    "recipe": {
+      "scene": "night-sky",
+      "seed": 988122536
+    }
+  },
+  "primaryColor": {
+    "mode": "automatic"
+  }
+}
